@@ -1,58 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Adish</h1>
+<h3 align="center">Full stack .NET developer</h3>
 
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adish-quest&label=Profile%20views&color=0e75b6&style=flat" alt="adish-quest" /> </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adish-quest" alt="adish-quest" /></a> </p>
 
-✔ Call me: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently a freelancer for various companies<br>
-✔ I’m currently a student reading Bsc. CSIT **🥰<br>
-✔ Ask me anything you want; if I am alive, I will answer for sure 😉<br>
-✔ Real fact: *I Always try to LEARN and SHARE* 😎<br><br><br><br>
+<p align="left"> <a href="https://twitter.com/adish_quest" target="blank"><img src="https://img.shields.io/twitter/follow/adish_quest?logo=twitter&style=for-the-badge" alt="adish_quest" /></a> </p>
 
-## 🛠️ Skills & Expertise
-- **Languages**: C#, JavaScript, SQL
-- **Frameworks**: ASP.NET Core, jQuery
-- **Databases**: SQL Server, DynamoDB
-- **Cloud Services**: AWS (DynamoDB, API Gateway, Lambda, S3)
-- **Other Tools**: Git, Docker
+- 👨‍💻 All of my projects are available at [https://github.com/adish-quest](https://github.com/adish-quest)
 
-## 🚀 What I Do
-- **Software Development**: Building scalable and efficient software applications.
-- **Cloud Solutions**: Optimizing performance and managing cloud environments using AWS.
-- **Problem Solving**: Strong analytical skills to troubleshoot and resolve complex issues.
-- **Collaboration**: Effective communication and teamwork to deliver high-quality software.
+- 💬 Ask me about **ASp.Net Core, MS Sql Server**
 
-## 📈 GitHub Stats
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adish-ghimire&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="adish-ghimire">
+- 📫 How to reach me **https://www.linkedin.com/in/adish-ghimire-a58085187/**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/adish_ghimire_498b80f61dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adish_ghimire_498b80f61dd" height="30" width="40" /></a>
+<a href="https://twitter.com/adish_quest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adish_quest" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adish" height="30" width="40" /></a>
+<a href="https://medium.com/adish.ghimire54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="adish.ghimire54" height="30" width="40" /></a>
 </p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adish-ghimire&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="adish-ghimire" />  
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=adish-ghimire&theme=juicyfresh&no-bg=true" alt="adish-ghimire" />  
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adish-quest&show_icons=true&locale=en&layout=compact" alt="adish-quest" /></p>
 
-## 📚 Projects
-Here are some of my notable projects:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adish-quest&show_icons=true&locale=en" alt="adish-quest" /></p>
 
-### [Project Name 1](link-to-project)
-Brief description of the project, technologies used, and what you accomplished.
-
-### [Project Name 2](link-to-project)
-Brief description of the project, technologies used, and what you accomplished.
-
-### [Project Name 3](link-to-project)
-Brief description of the project, technologies used, and what you accomplished.
-
-## 📫 Get in Touch
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- **GitHub**: [github.com/adish-ghimire](https://github.com/adish-ghimire)
-
-## 🎉 Summary
-I am committed to delivering high-quality software solutions and continuously improving my skills. Follow my GitHub for updates on my latest projects and contributions to the developer community.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adish-quest&" alt="adish-quest" /></p>
